@@ -1,6 +1,14 @@
-# Eva - l'assistante IA faite PAR et POUR les étudiants du curriculum français
+<p align="center">
+  <img src="eva.png" width="350">
+</p>
 
-Eva est une assistante IA éducative conçue spécifiquement pour les élèves du système éducatif français (collège et lycée). Elle les aide à approfondir leur compréhension des concepts plutôt que de simplement leur fournir les réponses.
+<h1 align="center">Eva</h1>
+
+<p align="center">
+L'assistante IA faite <b>PAR et POUR</b> les étudiants du curriculum français
+</p>
+
+Eva est une assistante IA éducative conçue *spécifiquement* pour les élèves du système éducatif français (collège et lycée). Elle les aide à approfondir leur compréhension des concepts plutôt que de simplement leur fournir les réponses.
 
 ## Présentation
 
