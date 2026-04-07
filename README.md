@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="Eva.png" width="350">
+  <img src="assets/eva-logo.png" width="220" style="border-radius:50%;">
 </p>
 
 <h1 align="center">Eva</h1>
 
 <p align="center">
-L'assistante IA faite <b>PAR et POUR</b> les étudiants du curriculum français
+L'assistante IA faite <b>PAR et POUR</b> les étudiants du curriculum français 🇫🇷
 </p>
 
 Eva est une assistante IA éducative conçue *spécifiquement* pour les élèves du système éducatif français (collège et lycée). Elle les aide à approfondir leur compréhension des concepts plutôt que de simplement leur fournir les réponses.
@@ -19,7 +19,7 @@ Eva est basée sur `gemma4:31b-cloud` et optimisée pour les interactions pédag
 - **Modèle de base** : gemma4:31b-cloud
 - **Température** : 0,3 (précision plutôt que créativité)
 - **Fenêtre de contexte** : 16 384 tokens
-- **Langue** : Français (par défaut)
+- **Langue** : 🇫🇷 Français (par défaut)
 
 ### Fonctionnalités
 
