@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Eva.png" width="220" style="border-radius:50%;">
+  <img src="Eva.png" width="220" style="border-radius:50%;">
 </p>
 
 <h1 align="center">Eva</h1>
