@@ -36,9 +36,10 @@ Eva est basée sur `gemma4:31b-cloud` et optimisée pour les interactions pédag
 
 ### Utilisation
 
-`ollama pull naeldv/Eva
-
-ollama run naeldv/Eva`
+```bash
+ollama pull naeldv/Eva
+ollama run naeldv/Eva
+```
 
 ### Approche pédagogique
 
