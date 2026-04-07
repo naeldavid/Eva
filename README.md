@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="Eva.png" width="220" style="border-radius:50%;">
+  <img src="Eva.png" style="width: 220px; height: 220px; border-radius: 50%;">
 </p>
-
-<h1 align="center">Eva</h1>
 
 <p align="center">
 L'assistante IA faite <b>PAR et POUR</b> les étudiants du curriculum français 🇫🇷
