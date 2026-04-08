@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Eva.png" style="width: 220px; height: 220px; border-radius: 50%;">
+  <img src="Eva.png" style="width: 200px; height: 200px; border-radius: 50%;">
 </p>
 
 <p align="center">
@@ -10,11 +10,11 @@ Eva est une assistante IA éducative conçue *spécifiquement* pour les élèves
 
 ## Présentation
 
-Eva est basée sur `gemma4:31b-cloud` et optimisée pour les interactions pédagogiques. Elle adapte ses explications au niveau scolaire de l'élève et suit le programme scolaire français.
+Eva est basée sur `gemma4:e4b` et optimisée pour les interactions pédagogiques. Elle adapte ses explications au niveau scolaire de l'élève et suit le programme scolaire français.
 
 ### Détails du modèle
 
-- **Modèle de base** : gemma4:31b-cloud
+- **Modèle de base** : gemma4:e4b
 - **Température** : 0,3 (précision plutôt que créativité)
 - **Fenêtre de contexte** : 16 384 tokens
 - **Langue** : 🇫🇷 Français (par défaut)
@@ -66,9 +66,9 @@ ollama run naeldv/Eva
 ### Options de configuration
 
 ```bash
-ollama run Eva --temperature 0.2 "Pour restreindre les hallucinations possibles"
-ollama run Eva --num_ctx 8192 "Questions Longues"
-ollama run Eva --system "Étudiant Terminale Spé SVT" "Explique la photosynthèse"
+ollama run naeldv/Eva --temperature 0.2 "Pour restreindre les hallucinations possibles"
+ollama run naeldv/Eva --num_ctx 8192 "Questions Longues"
+ollama run naeldv/Eva --system "Étudiant Terminale Spé SVT" "Explique la photosynthèse"
 ```
 
 ### Collaboration
